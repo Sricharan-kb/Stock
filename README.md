@@ -32,7 +32,8 @@ Render (Cloud deployment)
 
 
 ---
-🚧 Usage Instructions
+ Usage Instructions
+ 
 Clone the repository:
 
 ```
