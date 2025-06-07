@@ -4,7 +4,7 @@ A Streamlit-based web application that retrieves, analyzes, and displays categor
 
 ## 🚀 Features
 
-- 🔍 Search any NASDAQ stock by ticker symbol
+- 🔍 Search NASDAQ stock by ticker symbol(limited to 5 stocks for now- more to be added soon!)
 - 📊 Display key financial ratios across categories:
   - **Profitability**
   - **Liquidity**
