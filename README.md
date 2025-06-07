@@ -35,6 +35,7 @@ Render (Cloud deployment)
 🚧 Usage Instructions
 Clone the repository:
 
+bash
 git clone https://github.com/Sricharan-Kb/stock.git
 cd stock
 ---
