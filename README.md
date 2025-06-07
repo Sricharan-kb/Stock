@@ -36,8 +36,9 @@ Render (Cloud deployment)
 Clone the repository:
 
 bash
-git clone https://github.com/Sricharan-Kb/stock.git
+```git clone https://github.com/Sricharan-Kb/stock.git
 cd stock
+```
 ---
 Create and activate a virtual environment (recommended):
 
