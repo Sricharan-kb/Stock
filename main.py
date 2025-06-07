@@ -11,7 +11,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-API_KEY = "gj7pSb0DwWTVFLjBIWZ0kIDW7BibaXOB"
+API_KEY = "Put Your API key here"
 BASE_URL = "https://financialmodelingprep.com/api/v3"
 
 @app.get("/tickers")
