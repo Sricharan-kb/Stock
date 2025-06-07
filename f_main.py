@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import requests
 
-API_URL = "http://localhost:8000"  
+API_URL = "https://stock-api-5tzk.onrender.com"  
 
 #Stock name and Ticker Mapping
 stock_options = {
