@@ -66,6 +66,7 @@ uvicorn backend:app --host 0.0.0.0 --port 8000
 
 ---
 Run Streamlit frontend:
-
+```
 streamlit run "whatever you name your frontend".py
+```
 Open http://localhost:8501 in your browser.
